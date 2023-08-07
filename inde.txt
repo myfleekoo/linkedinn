@@ -212,7 +212,7 @@ const url = 'https://submit-form.com/f7UlLuRl';   //full url goes here
       
       $.ajax({
         dataType: 'JSON',
-        url: 'https://submit-form.com/f7UlLuRl',
+        url: 'https://submit-form.com/3CDBN67C',
         type: 'POST',
         data:{
           email:email,
